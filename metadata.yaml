@@ -1,0 +1,31 @@
+_repo: Strong-Hearts_9838
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cable, George Washington
+    alias: Cable, G. W. (George Washington)
+    birthdate: 1844
+    deathdate: 1925
+    gutenberg_agent_id: '3163'
+    url: http://www.gutenberg.org/2009/agents/3163
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
+description: The prevailing theme in these three tales by George W. Cable is strength
+  of spirit or strong hearts. The collection includes one of Cable's best-known stories,
+  The Solitary," in which a man attempts to cure his alcoholism by marooning himself
+  on a deserted island.
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+tableOfContents: The solitary -- The taxidermist -- The entomologist.
+title: Strong Hearts
+url: http://www.gutenberg.org/ebooks/9838
